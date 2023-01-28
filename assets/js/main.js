@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // requete vers notre serveur
 
     const response = await axios.post(
-      "https://roaring-sprite-289642.netlify.app/form",
+      "https://site--formulaireback--fhx5w78hhgzd.code.run/form",
       data
     );
 
